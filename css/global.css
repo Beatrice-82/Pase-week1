@@ -1,0 +1,22 @@
+:root {
+    --color-primary: #ffffff;
+    --color-primary: #000000;
+    --color-tertiary: lightgreen;
+
+}
+* {
+    padding: 0;
+    margin: 0;
+    transition: all 1s ease-in-out;
+  }
+  body {
+      font-family: Cambria;
+       
+  }
+  p {
+     line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  .heading {
+      line-height: 2;
+  }

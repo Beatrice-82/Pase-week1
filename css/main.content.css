@@ -1,0 +1,6 @@
+.main-content {
+    padding: 50px 300px;
+}
+.main-content p, .main-content li {
+font-size: 20px;
+}
